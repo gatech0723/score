@@ -47,7 +47,6 @@ function reset(){
   gameOver = false;
 }
 
-
 numInput.addEventListener("change", function(){
   winningScoreDisplay.textContent = this.value;
   winningScore = Number(this.value)
