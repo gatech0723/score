@@ -37,7 +37,6 @@ resetButton.addEventListener('click', function(){
   reset();
 })
 
-
 function reset(){
   p1 = 0;
   p2 = 0;
