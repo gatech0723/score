@@ -22,6 +22,7 @@ player1b.addEventListener("click", function(){
   }
 })
 
+
 player2b.addEventListener("click", function(){
   if(!gameOver){
     p2++;
