@@ -11,7 +11,6 @@ var p2 = 0;
 var gameOver = false;
 var winningScore = 5;
 
-
 player1b.addEventListener("click", function(){
   if(!gameOver){
     p1++;
